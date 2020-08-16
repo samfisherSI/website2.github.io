@@ -1,0 +1,60 @@
+.section {display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+   
+  
+}
+
+.section .write {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: white;
+    padding-top: 9em;
+    
+    
+    
+}
+.section .title{
+    
+    font-size: 48pt;
+    color: white;
+    
+}
+
+.section .texts{
+    display: flex;
+    flex-direction: column;
+    padding:1px;
+    
+}
+
+
+.section .btn {
+    display: flex;
+    
+    text-decoration: none;
+    color:white;
+    
+    padding: 10px;
+    
+    background-color: #05c53f;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+}
+.section .bttn{
+    display: flex;
+    padding-top: 10em;
+}
+
+.section .btn{
+    
+   
+   
+   
+   
+
+}

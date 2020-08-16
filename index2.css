@@ -1,0 +1,63 @@
+.bodys .buttons{
+    
+    display: flex;
+    flex-direction: column;
+    
+   align-items: flex-end;
+   padding-top: 2em;
+    
+}
+
+.bodys .buttons .btn{
+    display: flex;
+    
+    text-decoration: none;
+    color:white;
+    
+    padding: 10px;
+    
+    background-color: #05c53f;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+    
+}
+
+.bodys .buttons .btn2{
+    display: flex;
+    
+    text-decoration: none;
+    color:white;
+    
+    padding: 10px;
+    margin-top: 1em;
+    background-color: #05c53f;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+    
+}
+
+.bodys .buttons .btn3{
+    display: flex;
+    
+    text-decoration: none;
+    color:white;
+    
+    padding: 10px;margin-top: 1em;
+    
+    background-color: #05c53f;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+}
+
+.header .or{
+    display: flex;
+    
+    margin-top:2em;
+    
+}

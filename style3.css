@@ -1,0 +1,8 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.mainframe{
+    background-color: #201D26;
+    
+}
